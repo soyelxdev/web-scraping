@@ -57,7 +57,7 @@ Depending on the individual project:
 
 Clone this repository:
 
-git clone https://github.com/sks584845-arch/web-scraping.git
+git clone https://github.com/soyelxdev/web-scraping.git
 
 Navigate to the directory:
 
